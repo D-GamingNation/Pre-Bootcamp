@@ -1,0 +1,39 @@
+* {
+    font-family: roboto;
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+div {
+    background-color: gray;
+    justify-content:space-between ;
+}
+.nav {
+    display: flex;
+}
+h1 {
+    color: white;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+ul {
+    justify-content: space-around;
+    margin: 0 30px;
+    list-style: none;
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+li {
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.btn {
+    color: white;
+    background-color: aqua;
+}

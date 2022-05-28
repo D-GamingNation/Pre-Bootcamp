@@ -1,0 +1,29 @@
+h1{
+    color: aquamarine;
+    background-color: black;
+    font-family: cursive;
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 60px;
+}
+span{
+color: white;
+}
+h2{
+    background-color: rebeccapurple;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+}
+h3{
+    background-color: lightblue;
+    text-align: right;
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline;
+}
+body{
+    background-color: gray;
+}
